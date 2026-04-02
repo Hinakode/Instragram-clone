@@ -1,2 +1,2 @@
 # Instragram-clone
-Projeto utilizando apenas HTML e CSS com o intuito de criar uma interface baseada na interface do Instagram
+Project using only HTML and CSS with the aim of creating an interface based on the Instagram interface.
